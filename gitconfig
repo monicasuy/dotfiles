@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = monicasuy96@gmail.com
+	name = monica suy
